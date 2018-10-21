@@ -1,0 +1,37 @@
+[{
+    "anonymous": false,
+    "inputs": [
+        {
+            "indexed": false,
+            "name": "ManagerAddr",
+            "type": "address"
+        },
+        {
+            "indexed": false,
+            "name": "Investor",
+            "type": "address"
+        },
+        {
+            "indexed": false,
+            "name": "FundName",
+            "type": "string"
+        },
+        {
+            "indexed": false,
+            "name": "ManagerName",
+            "type": "string"
+        },
+        {
+            "indexed": false,
+            "name": "UnitAddress",
+            "type": "address"
+        },
+        {
+            "indexed": false,
+            "name": "UnitsIssued",
+            "type": "uint256"
+        }
+    ],
+    "name": "eInvest",
+    "type": "event"
+}]
